@@ -1,0 +1,8 @@
+{
+  "name": "mobilemynk",
+  "version": "1.0.0",
+  "description": "Proxy API by mynk",
+  "main": "api/lookup.js",
+  "type": "module",
+  "license": "MIT"
+}
